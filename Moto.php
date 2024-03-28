@@ -3,7 +3,7 @@
                 require_once"Vehicule.php";
 
                 // Classe Moto héritant de Vehicule
-                class MotoextendsVehicule
+                class Moto extends Vehicule
                 {
                 // Propriétés privées
                 private $marque;
